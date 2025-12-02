@@ -31,18 +31,6 @@ Proyek ini merupakan implementasi jam digital berbasis **ESP32-S3** dengan peman
 
 ---
 
-## 📁 Struktur File
-
-```
-alarm/
-│── sketch.ino          → kode utama ESP32-S3
-│── diagram.json        → wiring Wokwi
-│── wokwi-project.txt   → link/konfigurasi project Wokwi
-│── libraries.txt       → daftar library yang digunakan
-```
-
----
-
 ## 🔧 Library yang Digunakan
 
 * **Adafruit GFX**
